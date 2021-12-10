@@ -27,10 +27,9 @@
 ![Microsoft Teams](https://img.shields.io/badge/-Microsoft%20Teams-6264A7?style=flat&logo=Microsoft%20Teams&logoColor=white)
 ![Microsoft One Drive](https://img.shields.io/badge/-Microsoft%20OneDrive-0078D4?style=flat&logo=Microsoft%20OneDrive&logoColor=white)
 
-[![Joe's github stats](https://github-readme-stats.vercel.app/api?username=jo763&show_icons=true&theme=synthwave)](https://github.com/naistangz/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jo763&hide=TeX&layout=compact)
 
-![Visitor Count](https://profile-counter.glitch.me/jo763/count.svg)
+
 <!--
 **jo763/jo763** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
